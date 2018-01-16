@@ -1,9 +1,3 @@
-##Stefan Andersson
-##CSCI-132
-##OutLab #5 - Python GUI
-##04/18/2017
-##
-##
 ##In honor of Nirvana
 ##Kurt Cobain
 ##And the upcoming 4/20 Holiday
